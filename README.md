@@ -14,5 +14,5 @@ Clone the repository or download the source code:
 bash
 
 
-npm i
+npm i &&
 node index.js
