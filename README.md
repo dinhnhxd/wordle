@@ -13,6 +13,6 @@ Project Setup
 Clone the repository or download the source code:
 bash
 
-cd wordle-game
+
 npm i
 node index.js
